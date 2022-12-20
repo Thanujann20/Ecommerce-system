@@ -1,4 +1,3 @@
-All parts of the program work. Did not complete Bonus.
 Basic commands (CUSTS, BOOKS, ORDERS, BOOKS, SHIPPED) are functional
 Intermediate commands (ORDER, SHIP, CUSTORDERS, NEWCUST, CANCEL) are functional
 ORDERBOOK and ORDERSHOES are functional
